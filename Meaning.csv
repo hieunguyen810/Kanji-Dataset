@@ -1,11 +1,51 @@
-Filename,HanViet,English,Vietnamese
-1,Nhất,"One, 1","Một, 1"
-2,Ất,"Second (party to an agrement), ",ngôi thứ hai thuộc hàng Can
-3,Linh,"Zero, 0",Số 0
-4,Đinh,counter for leaves in a book ,họ Đinh
-5,Thất,"Seven, 7",Số 7
-6,Cửu,"Nine, 9",Số 9
-7,Liễu,finish; completion; the end,"Xong, hết, đã rồi"
-8,Nhị,"Two, 2",Số 2
-9,Nhân,person; someone; somebody,Con người
-10,Nhập,"Entering , income",Vào trong 
+Filename,Kanji,Kun,On,Hán Việt,English,Vietnamese
+1,一,ひと-、 ひと.つ,イチ、 イツ,Nhất,"One, 1","Một, 1"
+2,乙 ,おと-、 きのと,オツ、 イツ,Ất,"Second (party to an agrement), ",ngôi thứ hai thuộc hàng Can
+3,〇,,,Linh,"Zero, 0",Số 0
+4,丁,ひのと,チョウ、 テイ、 チン、 トウ、 チ,Đinh,counter for leaves in a book ,họ Đinh
+5,七,なな、 なな.つ、 なの,シチ,Thất,"Seven, 7",Số 7
+6,九,ここの、 ここの.つ,キュウ、 ク,Cửu,"Nine, 9",Số 9
+7,了 ,, リョウ,Liễu,finish; completion; the end,"Xong, hết, đã rồi"
+8,二,ふた、 ふた.つ、 ふたたび,ニ、 ジ,Nhị,"Two, 2",Số 2
+9,人,ひと、 -り、 -と, ジン、 ニン,Nhân,person; someone; somebody,Con người
+10, 入 ,い.る、 -い.る、 -い.り、 い.れる、 -い.れ、 はい.る,ニュウ、 ジュ,Nhập,"Entering , income",Vào trong 
+11, 八," や, や.つ, やっ.つ, よう","ハチ,  ハツ",Bát,"Eight, 8",Số 8
+12,刀,"かたな, そり",トウ,Đao,"Sword , katana","Cái đao, con dao"
+13,力,ちから,"リョク,  リキ,  リイ",Lực,force; strength; might; vigour; vigor; energy,Sức lực
+14,十,"とお, と, そ","ジュウ,  ジッ,  ジュッ",Thập,"Ten, 10",Số 10
+15,又," また,また-, また.の",ユウ,Hựu,again; once more; once again; another time; some other time​,Còn lại
+16,乃,"の, すなわ.ち,  なんじ","ナイ, ダイ,ノ, アイ",Nãi,s; of; belonging to,"Bèn, rồi thì, bởi vậy"
+17,万,よろず,"マン,  バン",Vạn,"Ten thousand, 10000",mười nghìn
+18,丈,"たけ, だけ",ジョウ,Trượng,height; stature,"đơn vị đo (bằng 10 thước), già cả"
+19,三,み、 み.つ、 みっ.つ,サン、 ゾウ,Tam,Three,Số 3
+20, 上,うえ、 -うえ、 うわ-、 かみ、 あ.げる、 -あ.げる、 あ.がる、 -あ.がる、 あ.がり、 -あ.がり、 のぼ.る、 のぼ.り、 のぼ.せる、 のぼ.す、 たてまつ.る,ジョウ、 ショウ、 シャン,Thượng,above; up; over; elder ,ở phía trên
+21, 下,した、 しも、 もと、 さ.げる、 さ.がる、 くだ.る、 くだ.り、 くだ.す、 -くだ.す、 くだ.さる、 お.ろす、 お.りる,カ、 ゲ,Hạ,below; down; under; younger,ở phía dưới
+22,丸,まる、 まる.める、 まる.い,ガン,Hoàn,"circle, whole, full","viên, tròn"
+23,久, ひさ.しい,キュウ、 ク,Cửu,a long time (since the last time); first in a long time,"Lâu, chờ đợi"
+24,亡,な.い、 な.き-、 ほろ.びる、 ほろ.ぶ、 ほろ.ぼす,ボウ、 モウ,Vong,death,"Chết, mất"
+25, 凡,およ.そ、 おうよ.そ、 すべ.て,ボン、 ハン,Phàm,about; roughly; approximately​,"bình thường, đại khái, chung"
+26,刃,は、 やいば、 き.る, ジン、 ニン,Nhẫn,"edge (of a knife or sword), blade",mũi nhọn
+27, 千,ち,セン,Thiên,"1,000; thousand​","nghìn, 1000"
+28, 口,くち,コウ、 ク,Khẩu,"mouth, gate, entrance","cái miệng, cửu"
+29,土,つち,ド、 ト,Thổ,earth; soil; dirt; clay; mud​,"đất, sao Thổ"
+30, 士,さむらい,シ,Sĩ,"gentleman, scholar, samurai, samurai radical (no. 33)","học trò, quan"
+31, 夕,ゆう,セキ,Tịch ,evening,"buổi chiều, buổi tối"
+32, 大,おお-、 おお.きい、 -おお.いに,ダイ、 タイ,Đại,large; big; great; huge; vast; major; important; serious; severe,"to, lớn"
+33, 女,おんな、 め, ジョ、 ニョ、 ニョウ,Nữ,female; woman; female sex,"Đàn bà, người phái nữ"
+34, 子,こ、 -こ、 ね,シ、 ス、 ツ,Tử,child; kid; teenager; youngster; young (non-adult) person,Con trai
+35,寸,,スン,Thốn,"measurement, tenth of a shaku, a little, small",tấc (đơn vị đo chiều dài)
+36,小,ちい.さい、 こ-、 お-、 さ-,ショウ,Tiểu,"little, small",nhỏ
+37,山, やま,サン、 セン,Sơn,mountain,"núi, mồ mả"
+38, 川,かわ,セン,Xuyên,"stream, river, river or three-stroke river radical","dòng nước, sông, cánh đồng"
+39,工,,コウ、 ク、 グ,Công,"craft, construction, worker","Công việc, người thợ"
+40,己,おのれ、 つちのと、 な,コ、 キ,Kỷ,"I, me, self","Riêng, mình"
+41,干,ほ.す、 ほ.し-、 -ぼ.し、 ひ.る,カン,Can,"dry, parch, ebb, recede, interfere, intercede","khô, cạn kiệt, can thiệp, cầu, mong"
+42,弓,ゆみ,キュウ,Cung,"bow, bow (archery, violin)","Cong, cái cung"
+43,才,,サイ,Tài,"genius, years old, cubic shaku, talent","mới, vừa mới, tài năng "
+44,之,の、 これ、 ゆく、 この,シ,Chi,"of, this  this one, this person","đã rồi, thuộc về"
+45,巾,おお.い、 ちきり、 きれ, キン、 フク,Cân,"towel, hanging scroll, width",cái khăn
+46, 乞,こ.う,コツ、 キツ、 キ、 キケ、 コチ,Khất,"beg, invite, ask","kẻ ăn mày, người ăn xin"
+47,于,ここに、 ああ、 おいて、 に、 より、 を,ウ、 ク,Vu,"going, from","Đi, về, vu quy"
+48,也,なり、 か、 また, ヤ、 エ,Dã,to be,Cũng vậy
+49, 々,,,,kanji repetition mark​,
+50,勺,,シャク,Chước,"ladle, one tenth of a go, dip, traditional unit of volume, 18 ml of water​",múc lấy
